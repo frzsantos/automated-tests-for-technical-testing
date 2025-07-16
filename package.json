@@ -1,0 +1,23 @@
+{
+    "name": "technical-test-for-test-automation",
+    "version": "1.0.0",
+    "description": "Repository intended for the development of automated tests for a technical test",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cypress": "^14.5.1"
+    },
+    "devDependencies": {
+        "@badeball/cypress-cucumber-preprocessor": "^22.2.0",
+        "@bahmutov/cypress-esbuild-preprocessor": "^2.2.5",
+        "cypress-plugin-api": "^2.11.2"
+    },
+    "cypress-cucumber-preprocessor": {
+        "stepDefinitions": "cypress/e2e/step_definitions/*.js"
+    }
+}

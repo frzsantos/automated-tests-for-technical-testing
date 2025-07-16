@@ -1,0 +1,14 @@
+{
+    "users": {
+        "invalid": {
+            "email": "automatedtests@test.com",
+            "password": "Test@123"
+        }
+    },
+    "pathnames": {
+        "cart": "/view_cart",
+        "checkout": "/checkout",
+        "login": "/login",
+        "products": "/products"
+    }
+}
