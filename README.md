@@ -20,4 +20,4 @@ Após a execução, é exibido um relatório com os testes executados:
 
 
 # Esteira de Integração Contínua
-Caso possua um maior conhecimento com esteiras de integração contínua é possível executar os testes já desenvolvidos utilizando o Github Actions configurado neste repositório. Acesse a aba "Actions" e faça a execução dos testes.
+Caso possua um maior conhecimento com esteiras de integração contínua é possível executar os testes já desenvolvidos utilizando o Github Actions configurado neste repositório. Realize um [fork](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) do projeto e execute os testes automatizados via Github Actions.
