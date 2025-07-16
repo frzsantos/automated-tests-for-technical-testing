@@ -16,7 +16,8 @@ Com as dependências instaladas, os testes são executados com o comando:
 ```
 
 Após a execução, é exibido um relatório com os testes executados:
-<img width="704" height="206" alt="image" src="https://github.com/user-attachments/assets/96902fc3-366e-4fb5-9173-e701326edb61" />
+<img width="704" height="206" alt="image" src="https://github.com/user-attachments/assets/ca78c674-d7d4-43fd-a249-c0b025c51caa" />
+
 
 # Esteira de Integração Contínua
 Caso possua um maior conhecimento com esteiras de integração contínua é possível executar os testes já desenvolvidos utilizando o Github Actions configurado neste repositório. Acesse a aba "Actions" e faça a execução dos testes.
